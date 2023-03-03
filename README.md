@@ -60,6 +60,7 @@ $ cd FLASHLOAN-FOUNDRY-TEST
 # Install dependencies
 $ forge install
 ``` 
+- Follow the [instructions](https://book.getfoundry.sh/getting-started/installation.html) to install [Foundry](https://github.com/foundry-rs/foundry).
 
 <h2>Commands</h2>
 
