@@ -56,8 +56,12 @@ $ git clone https://github.com/catellaTech/FLASHLOAN-FOUNDRY-TEST
 
 # Access
 $ cd FLASHLOAN-FOUNDRY-TEST
-``` 
+
 - Follow the [instructions](https://book.getfoundry.sh/getting-started/installation.html) to install [Foundry](https://github.com/foundry-rs/foundry).
+
+# Install dependencies
+$ forge install
+``` 
 
 <h2>Commands</h2>
 
